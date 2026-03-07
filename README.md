@@ -1,2 +1,2 @@
-# AIML_Project_and_Labs
-Submissions of assignments for AIML course
+# ML_Project_and_Labs
+Submissions of assignments for ML course
