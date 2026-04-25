@@ -1,2 +1,2 @@
 # ML_Project_and_Labs
-Submissions of assignments for ML course
+This repository is for submissions of Machine Learning Course assignments through Colab sheets
